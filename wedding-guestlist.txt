@@ -7,3 +7,5 @@ Catherine
 Sarah
 Mikayla
 John
+Patrick
+Sally
